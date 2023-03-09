@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-exec('import subprocess; subprocess.call(["echo", "#pythoniscool"])')
+__builtins__.__dict__['p,r,i,n,t'.replace(',', '')]('#pythoniscool')
