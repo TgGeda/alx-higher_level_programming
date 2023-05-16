@@ -1,2 +1,2 @@
---This script will create the database if it does not already exist and will not fail if the database already exists.
+-- Create the database ifnot exist  
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
