@@ -2,6 +2,7 @@
    -- user_0d_1 should have all privileges on your MySQL server
    -- password set to user_0d_1_pwd
    -- If the user user_0d_1 already exists, script should not fail
+ -- cat 1-create_user.sql | mysql -hlocalhost -uroot -p
 
 CREATE USER IF NOT EXISTS 'user_0d_1'@'%' IDENTIFIED BY 'user_0d_1_pwd';
 GRANT ALL PRIVILEGES ON *.* TO 'user_0d_1'@'%';
