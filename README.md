@@ -30,10 +30,7 @@ The programs in this repository were developed for the advanced programming cour
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum for
-ALX Africa SE. ALX Afica is an online full-stack software
-engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
+The curriculum for ALX Africa SE necessitated the completion of all tasks within this project. ALX Africa SE is an online program that trains students in full-stack software engineering, utilizing project-based peer learning to prepare them for careers in the tech industry. For more information, visit
 [this link](https://www.alxafrica.com//).
 
 <p align="center">
